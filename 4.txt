@@ -1,0 +1,30 @@
+apples
+3
+5
+bread
+2
+3
+milk (1 Gallon)
+4
+2
+eggs (dozen)
+3
+4
+chicken strip bag
+7
+3
+cheese (1lb)
+6
+2
+Bananas
+1
+7
+rice (2lbs)
+5
+2
+orange juice
+4
+3
+ground beef (1lb)
+8
+1
